@@ -1,2 +1,2 @@
 select * from db;
-create db test1;
+create db test2;
